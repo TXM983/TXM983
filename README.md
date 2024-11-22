@@ -23,11 +23,13 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### 系统与工具  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 ---
 
 ## ✨ 个人简介
@@ -41,7 +43,7 @@
 ## 📫 联系我
 
 - **邮箱**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [你的GitHub链接](https://github.com/你的用户名)
+- **GitHub**: [你的GitHub链接](https://github.com/TXM983)
 
 ---
 

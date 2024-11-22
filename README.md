@@ -42,8 +42,8 @@
 
 ## 📫 联系我
 
-- **邮箱**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [你的GitHub链接](https://github.com/TXM983)
+- **邮箱**: [zhangyang0581@qq.com](mailto:zhangyang0581@qq.com)
+- **GitHub**: [https://github.com/TXM983](https://github.com/TXM983)
 
 ---
 

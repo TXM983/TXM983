@@ -7,7 +7,7 @@
 - **姓名**: MuXiaoChen🍊
 - **职业**: 后端开发工程师
 - **兴趣爱好**: 编程、音乐、阅读、二次元
-- **个人网站**：[www.aimiliy.top](https://www.aimiliy.top)
+- **个人网站**：[miraii.cn](https://miraii.cn)
 - **座右铭**: 代码改变世界！
 - **问题**：有任何问题欢迎在我博客中留言
 ---
@@ -15,20 +15,21 @@
 ## 💻 技术栈
 
 ### 编程语言  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.10-orange?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?logo=java&style=flat&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3A77C3?logo=python&style=flat&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&style=flat&logoColor=white)
+
 
 ### 前端  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=flat&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=flat&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&style=flat&logoColor=white)
 
 ### 系统与工具  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&style=flat&logoColor=black)
+![CentOS](https://img.shields.io/badge/CentOS-262577?logo=centos&style=flat&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?logo=windows11&style=flat&logoColor=white)
 
 ---
 
